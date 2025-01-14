@@ -1,5 +1,5 @@
 site_name: To awk or not
-repo_url: https://github.com/pmitev/to-awk-or-not
+repo_url: https://github.com/UPPMAX/to-awk-or-not
 nav:
   - Home: index.md
   - 1.Simple examples: 1.Simple_example.md
@@ -100,5 +100,5 @@ extra_javascript:
   - javascripts/config.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-site_url: https://pmitev.github.io/to-awk-or-not/
+site_url: https://UPPMAX.github.io/to-awk-or-not/
 #theme: readthedocs
