@@ -2,7 +2,7 @@
 Next scheduled workshop</br> 
 28 and 29 August, 2025, on campus</strong></font></br>
 <a href="https://richelbilderbeek.github.io/awk_course/" target="_blank" rel="nofollow">DIY course material of the first day</a></br>
-<a href="https://www.uu.se/en/centre/uppmax/study/courses-and-workshops/awk-workshop" target="_blank" rel="nofollow">course information</a>
+<a href="https://docs.uppmax.uu.se/courses_workshops/awk/" target="_blank" rel="nofollow">course information</a>
 </div>
 
 # Why awk?
