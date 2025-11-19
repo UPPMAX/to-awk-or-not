@@ -1,6 +1,6 @@
 <div style="text-align: right"> <font color="red"><strong>
 Next scheduled workshop</br> 
-28 and 29 August, 2025, on campus</strong></font></br>
+15 and 16 January, 2026, Online on Zoom </strong></font></br>
 <a href="https://richelbilderbeek.github.io/awk_course/" target="_blank" rel="nofollow">DIY course material of the first day</a></br>
 <a href="https://docs.uppmax.uu.se/courses_workshops/awk/" target="_blank" rel="nofollow">course information</a>
 </div>
