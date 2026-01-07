@@ -20,7 +20,7 @@ The genome is located [here](https://ftp.ensemblgenomes.org/pub/metazoa/release-
 (That page seems to be lost, so [here](https://resources.aertslab.org/DGRP2/NCSU/final/dm6/DGRP2.source_NCSU.dm6.final.vcf.gz) is a very similar, although not identical file)
 
 ### Common names and functions
-Finally, full gene names and functions found in this [file](https://ftp.flybase.org/releases/FB2020_06/precomputed_files/genes/fbgn_fbtr_fbpp_expanded_fb_2020_06.tsv.gz).
+Finally, full gene names and functions found in this [file](https://flybase.org/releases/FB2020_06/precomputed_files/genes/fbgn_fbtr_fbpp_expanded_fb_2020_06.tsv.gz).
 
 ### Tips before starting
 * For readability of the vcf file:
